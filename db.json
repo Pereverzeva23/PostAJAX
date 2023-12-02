@@ -2,11 +2,15 @@
 "postik": [
   {
     "id": 1,
-    "title": "Post 1"
+    "userId": 2,
+    "title": "Post 1",
+    "body": "Postik repostik"
   },
   {
     "id": 2,
-    "title": "Post 1"
+    "userId": 3,
+    "title": "Post 2",
+    "body": "esse were"
   }
 ]
 }
