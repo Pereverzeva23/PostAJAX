@@ -1,0 +1,28 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "UserID": "2",
+            "title": "Beetlejuice",
+            "body": "Прт"
+        },
+        {
+             "id": 2,
+            "UserID": "3",
+            "title": "Beetlejuice6",
+            "body": "Привет"
+        },
+        {
+             "id": 3,
+            "UserID": "4",
+            "title": "Beetlejuice2",
+            "body": "Привет"
+        },
+        {
+             "id": 4,
+            "UserID": "5",
+            "title": "Beetlejuice3",
+            "body": "Привет"
+        },
+    ]
+}
